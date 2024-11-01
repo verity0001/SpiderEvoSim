@@ -1,7 +1,7 @@
 import com.jogamp.newt.opengl.GLWindow;
 import processing.sound.*;
 
-int CENTER_X = 961; // try setting this to 960 or 961 if there is horizontal camera-pan-drifting
+int CENTER_X = 960; // try setting this to 960 or 961 if there is horizontal camera-pan-drifting
 String[] soundFileNames = {"slap0.wav","slap1.wav","slap2.wav","splat0.wav","splat1.wav","splat2.wav","boop1.wav","boop2.wav","jump.wav","news.wav"};
 SoundFile[] sfx;
 Room room;
